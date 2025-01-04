@@ -1,5 +1,5 @@
 # Spremljanje-obrabe-strojnih-delov-s-strojnim-sluhom
-Seminarska projekta (študijski in praktični) pri predmetu Inteligentni avdio in govorni sistemi na drugi stopnji BMS na Fakulteti za elektrotehniko smer Avvtomatika in informatika (podsmer: strojno učenje)
+Seminarska projekta (študijski in praktični) pri predmetu Inteligentni avdio in govorni sistemi na drugi stopnji BMS - Fakulteta za elektrotehniko, Avtomatika in informatika (podsmer: strojno učenje)
 ---
 ## Študijski projekt
 Raziskava v obliki članka o spremljanju obrabe strojnih delov s strojnim sluhov. 
